@@ -1,2 +1,2 @@
 #This is the main project 
-Repository for demo purpose
+Repository for demo purpose and self learning
